@@ -72,6 +72,24 @@ Hey! I'm **Mane Charan Rao**, a passionate fresher on a mission to build impactf
 
 ---
 
+## 💼 Freelance Projects
+
+<div align="center">
+
+| Project | Description | Status | Link |
+|---|---|---|---|
+| 🏭 **Trident Winding & Automation Solutions** | Official business website for a company specializing in Custom Winding Machines, SPMs & Industrial Automation. Built with a modern UI featuring product showcase, quote requests, and company info. | 🔧 Live & In Development | [tridentws.in](https://tridentws.in) |
+
+</div>
+
+- 🌐 **Domain:** [tridentws.in](https://tridentws.in)
+- 🏢 **Client:** Trident Winding and Automation Solutions
+- 🛠️ **What I built:** Full business website with Home, About, Products & Contact sections
+- 🚀 **Status:** Live in production — actively maintaining and enhancing features
+- 💡 **Highlights:** Responsive design, industrial product catalog, quote request functionality
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
