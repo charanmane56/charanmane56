@@ -52,12 +52,13 @@ Hey! I'm **Mane Charan Rao**, a passionate fresher on a mission to build impactf
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charanmane56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanmane56&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=charanmane56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanmane56&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charanmane56&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=charanmane56&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
