@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mane+Charan+Rao+👋;MERN+Stack+Developer;AIML+Intern;Aspiring+Software+Engineer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0077B5&height=120&section=header&text=Hi%20there!%20I'm%20Mane%20Charan%20Rao%20%F0%9F%91%8B&fontSize=30&fontColor=ffffff&fontAlignY=40&desc=MERN%20Stack%20Developer%20%7C%20AIML%20Intern%20%7C%20Aspiring%20Software%20Engineer&descSize=16&descAlignY=65&descColor=ffffff" width="100%" alt="Header" />
 </div>
 
 ---
