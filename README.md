@@ -12,11 +12,12 @@
 
 Hey! I'm **Mane Charan Rao**, a passionate fresher on a mission to build impactful software. I love combining full-stack development with the power of AI/ML to create smart, scalable applications.
 
-- 🔭 Currently working as an **AIML Intern** and sharpening my MERN Stack skills
+- 🔭 Currently worked  as an **AIML Intern** and sharpening my MERN Stack skills
 - 🌱 Exploring **Machine Learning**, **Docker**, and **OpenShift**
 - 💡 I believe in learning by building — every project teaches something new
 - 🎯 Goal: Land my first Software Engineering role and make a real impact
 - ⚡ Fun fact: I debug with `console.log` and I'm proud of it 😄
+- Currently looking for a fresher role in IT Industry.
 
 ---
 
