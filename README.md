@@ -62,10 +62,10 @@ Hey! I'm **Mane Charan Rao**, a passionate fresher on a mission to build impactf
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=charanmane56&theme=darkhub&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charanmane56&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
