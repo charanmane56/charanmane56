@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <img src="./Mane Charan Rao Professional Image.png" width="150" style="border-radius: 50%;" alt="Mane Charan Rao" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mane+Charan+Rao+👋;MERN+Stack+Developer;AIML+Intern;Aspiring+Software+Engineer" alt="Typing SVG" />
 </div>
 
@@ -12,12 +16,11 @@
 
 Hey! I'm **Mane Charan Rao**, a passionate fresher on a mission to build impactful software. I love combining full-stack development with the power of AI/ML to create smart, scalable applications.
 
-- 🔭 Currently worked  as an **AIML Intern** and sharpening my MERN Stack skills
+- 🔭 Currently working as an **AIML Intern** and sharpening my MERN Stack skills
 - 🌱 Exploring **Machine Learning**, **Docker**, and **OpenShift**
 - 💡 I believe in learning by building — every project teaches something new
 - 🎯 Goal: Land my first Software Engineering role and make a real impact
 - ⚡ Fun fact: I debug with `console.log` and I'm proud of it 😄
-- Currently looking for a fresher role in IT Industry.
 
 ---
 
